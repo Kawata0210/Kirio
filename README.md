@@ -1,2 +1,2 @@
 # Kirio
-This repository will be an website. Used for Minecraft servers for people to join!
+This repository will be a Minecraft server!
