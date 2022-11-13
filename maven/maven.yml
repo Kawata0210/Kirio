@@ -1,2 +1,0 @@
-- name: Install Maven
-  uses: yuzhiyongcn/setup-maven@v1.0.0
